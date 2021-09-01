@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi, I'm Júlia 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-aparecida/)](https://www.linkedin.com/in/julia-aparecida/) 
+
+#### Taking a technical course in computer science
+🌱 I'm currently learning programing mobile
+
+[![MoreiraJulia GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/MoreiraJulia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraJulia&layout=compact)](https://github.com/MoreiraJulia/github-readme-stats)
 
 <!--
 **MoreiraJulia/MoreiraJulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
