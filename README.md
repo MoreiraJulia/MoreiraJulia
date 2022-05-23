@@ -5,7 +5,7 @@
 #### Taking a technical course in computer science
 🌱 I'm currently learning programing mobile
 
-[![MoreiraJulia GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/MoreiraJulia/github-readme-stats)
+[![MoreiraJulia GitHub stats](https://github-readme-stats.vercel.app/api?username=MoreiraJulia)](https://github.com/MoreiraJulia/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoreiraJulia&layout=compact)](https://github.com/MoreiraJulia/github-readme-stats)
 
 <!--
